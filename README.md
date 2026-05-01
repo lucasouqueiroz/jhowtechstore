@@ -1,13 +1,15 @@
 # Jhow Tech Store
-Landing page estilo Linktree + página estática em construção para a Jhow Tech Store.
+Arquivo pronto para GitHub Pages com Linktree + página estática em construção.
 
 # Arquivos
-  - index.html: página principal com links oficiais.
-  - site.html: página estática de site em construção.
-  - assets/: imagens da marca.
+  - *index.html:* página principal estilo Linktree.
+  - *site.html:* página estática em construção.
+  - *README.md:* instruções de publicação.
+  - *assets/logo.jpg:* logo original da marca.
+  - *assets/banner.jpg:* banner original da marca.
 
-# Links Configurados
-  - Instagram: https://instagram.com/jhowtechstore
-  - WhatsApp Business: https://wa.me/5511960329240
-  - Facebook: https://facebook.com/JhowTechStore
-  - Site: link para a página estática site.html
+#Links
+  - *Instagram:* https://instagram.com/jhowtechstore
+  - *WhatsApp Business:* https://wa.me/5511960329240
+  - *Facebook:* https://facebook.com/JhowTechStore
+  - *Site:* site.html
